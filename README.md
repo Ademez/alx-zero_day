@@ -1,1 +1,1 @@
-My root repo
+My root repository
